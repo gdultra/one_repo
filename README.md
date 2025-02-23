@@ -2,3 +2,6 @@
 
 
 <p> Continue treinando, man!</p>
+
+Aplicativo de sorteio para amigo secreto.
+Adiciona os nomes numa lista, e realiza um sorteio.
